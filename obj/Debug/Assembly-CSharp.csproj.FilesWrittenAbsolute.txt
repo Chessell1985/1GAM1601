@@ -1,0 +1,17 @@
+/Users/MonsterMac/Unity Projects/1GAM1601/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/MonsterMac/Unity Projects/1GAM1601/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/MonsterMac/Unity Projects/1GAM1601/obj/Debug/Assembly-CSharp.dll
+/Users/MonsterMac/Unity Projects/1GAM1601/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/MonsterMac/Unity Projects/1GAM1601/Temp/bin/Debug/UnityEngine.dll
+/Users/MonsterMac/Unity Projects/1GAM1601/Temp/bin/Debug/UnityEditor.dll
+/Users/MonsterMac/Unity Projects/1GAM1601/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/MonsterMac/Unity Projects/1GAM1601/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/MonsterMac/Unity Projects/1GAM1601/Temp/bin/Debug/Mono.Cecil.dll
+/Users/MonsterMac/Unity Projects/1GAM1601/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/MonsterMac/Unity Projects/1GAM1601/Temp/bin/Debug/Unity.DataContract.dll
+/Users/MonsterMac/Unity Projects/1GAM1601/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/MonsterMac/Unity Projects/1GAM1601/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/MonsterMac/Unity Projects/1GAM1601/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/MonsterMac/Unity Projects/1GAM1601/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/MonsterMac/Unity Projects/1GAM1601/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/MonsterMac/Unity Projects/1GAM1601/Temp/bin/Debug/Mono.Cecil.Mdb.dll
